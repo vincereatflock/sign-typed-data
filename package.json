@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@particle-network/auth-core-modal": "^1.5.0",
+    "@particle-network/connectkit": "^1.4.7",
+    "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
